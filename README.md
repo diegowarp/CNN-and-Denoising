@@ -14,3 +14,7 @@ On this study, I'm using the MNIST dataset, and generating the noise myself. I'm
 ![image](https://github.com/diegowarp/CNN-and-Denoising/assets/60277333/cd24d6fc-15be-4d68-89de-0c33e0d3424e)
 
 ![image](https://github.com/diegowarp/CNN-and-Denoising/assets/60277333/6af7689a-07d3-4441-b2e8-42d1965cca9f)
+
+Hope you enjoy it! 
+
+Diego Oliveira
